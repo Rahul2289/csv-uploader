@@ -1,0 +1,24 @@
+.drag-box {
+  width: 200px;
+  height: 50px;
+  border: 1px solid black;
+  text-align: center;
+  padding-top: 20px;
+  margin: auto;
+  font-weight: 500;
+  font-size: 20px;
+  margin-bottom: 50px;
+}
+h2 {
+  text-align: center;
+  font-size: 30px;
+  font-weight: 500;
+  font-family: sans-serif;
+}
+h2 span {
+  font-weight: 600;
+}
+
+.style:nth-child(odd) {
+  background-color: #f6f6f6;
+}
